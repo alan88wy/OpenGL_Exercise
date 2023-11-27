@@ -2,6 +2,7 @@
 .build/
 build/
 .vscode/
+.git
 
 # Prerequisites
 *.d
